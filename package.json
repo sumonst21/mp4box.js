@@ -47,6 +47,6 @@
     "test": "grunt test --verbose"
   },
   "dependencies": {
-    "npm": "^6.9.0"
+    "npm": "^10.0.0"
   }
 }
